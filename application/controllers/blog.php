@@ -16,7 +16,7 @@ class Blog extends CI_Controller {
 
 	public function functest()
 	{
-		$this->testEcho('ZZZZZZ');
+		$this->testEcho('BBBBBBBBBBBBBB');
 	}
 
 	function testEcho($input) {
