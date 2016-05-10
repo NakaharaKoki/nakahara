@@ -53,7 +53,6 @@ class Blog extends CI_Controller {
 	function calcAdd2($x, $y) {
 		return $x * $y;
 	}
-
 	public function test_b()
 	{
 		$this->testEcho('ブランチテスト');
