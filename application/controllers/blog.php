@@ -54,10 +54,7 @@ class Blog extends CI_Controller {
 		return $x * $y;
 	}
 
-	public function test_b()
-	{
-		$this->testEcho('ブランチテスト');
-	}
+	
 	public function test_c()
 	{
 		$this->testEcho('ぶらんちてすと');
