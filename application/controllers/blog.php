@@ -58,5 +58,9 @@ class Blog extends CI_Controller {
 	{
 		$this->testEcho('ブランチテスト');
 	}
+	public function test_c()
+	{
+		$this->testEcho('ぶらんちてすと');
+	}
 }
 ?>
